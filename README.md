@@ -5,6 +5,8 @@ about 10,000 movies collected from
 The Movie Database (TMDb),
 including user ratings and revenue.
 
+The projects purpose is to investigate the TMDb data set.
+
 Questions to be answered
 
 1. What is the average runtime over years?
